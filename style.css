@@ -1,10 +1,10 @@
 .body {
-  min-height: 800px;
+  min-height: 500px;
 }
 
 .jumbotron {
   min-height: 350px;
-  padding-top: 10rem;
+  padding-top: 8rem;
   background-color: #96daeb;
 }
 
