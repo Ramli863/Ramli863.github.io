@@ -1,11 +1,15 @@
+.body {
+  min-height: 3000px;
+}
+
 .jumbotron {
-  min-height: 800px;
+  min-height: 600px;
   padding-top: 6rem;
-  background-color: #96daeb;
+  background-color: #e2edff;
 }
 
 #inspiration {
-  background-color: #0099ff;
+  background-color: #e2edff;
 }
 
 section {
