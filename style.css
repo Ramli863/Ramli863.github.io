@@ -1,13 +1,18 @@
-.jumbotron {
-  min-height: 800px;
-  padding-top: 6rem;
-  background-color: #e2edff;
+body {
+  min-height: 3000px;
 }
 
-#inspiration {
-  background-color: #e2edff;
+.jumbotron {
+  min-height: 350px;
+  padding-top: 6rem;
+  background-color: #b1ddfa;
+}
+
+#inspirasi {
+  background-color: #b1ddfa;
 }
 
 section {
-  padding-top: 5rem;
+  padding-top: 1rem;
 }
+
